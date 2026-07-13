@@ -23,7 +23,7 @@ The firmware is written entirely in C using the **STM32 Hardware Abstraction Lay
 | **VCC** (Both modules) | `3V3` | 3.3V | Do not use 5V to ensure logic level compatibility. |
 | **GND** (Both modules) | `GND` | 0V | Common ground. |
 
-![Wiring Diagram](assets/wiring.jpg)
+![Wiring Diagram](assets/image.jpg)
 
 ## 💻 Software & Toolchain
 * **Language:** C
